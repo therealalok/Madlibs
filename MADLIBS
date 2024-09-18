@@ -1,0 +1,10 @@
+
+def geography():
+    adjective = input("Enter an adjective: ")
+    noun = input("Enter a noun (It must be related to geography, like mountain, river, etc.): ")
+    verb = input("Enter a verb: ")
+    place = input("Enter the name of a place: ")
+    print(f"Once upon a time, in the {adjective} land of {place}, there was a famous {noun}. People from all over the world would come to {place} to {verb} at the {noun}.It became a symbol of adventure and wonder for everyone who visited.")
+
+geography()
+
